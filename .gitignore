@@ -1,0 +1,6 @@
+node_modules/
+
+example/.nuxt/
+example/node_modules/
+
+.DS_Store

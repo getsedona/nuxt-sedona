@@ -1,0 +1,6 @@
+example/.nuxt/
+example/node_modules/
+
+node_modules/
+
+lib/plugin.template.js
