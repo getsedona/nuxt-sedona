@@ -1,5 +1,13 @@
 export default {
-  modules: [['@getsedona/nuxt-sedona', ['card', 'feature']]],
+  modules: [
+    [
+      '@getsedona/nuxt-sedona',
+      {
+        verbose: true,
+        components: ['card', 'feature'],
+      },
+    ],
+  ],
 
   build: {
     extractCSS: true,
