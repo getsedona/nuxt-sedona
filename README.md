@@ -25,7 +25,9 @@ export default {
 ```js
 export default {
   modules: ['@getsedona/nuxt-sedona'],
-  sedona: ['card', 'feature'],
+  sedona: {
+    components: ['card', 'feature'],
+  },
 }
 ```
 
