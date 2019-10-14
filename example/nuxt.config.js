@@ -3,7 +3,7 @@ export default {
     [
       '@getsedona/nuxt-sedona',
       {
-        verbose: true,
+        verbose: false,
         components: ['card', 'feature'],
       },
     ],

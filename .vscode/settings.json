@@ -1,5 +1,6 @@
 {
   "prettier.singleQuote": true,
   "prettier.semi": false,
-  "prettier.trailingComma": "es5"
+  "prettier.trailingComma": "es5",
+  "eslint.validate": ["javascript", "javascriptreact", "vue"]
 }
