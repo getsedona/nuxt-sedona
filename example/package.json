@@ -13,7 +13,7 @@
     "@getsedona/nuxt-sedona": "file:.."
   },
   "dependencies": {
-    "@getsedona/vue-components": "0.0.1",
+    "@getsedona/vue-components": "0.0.2",
     "nuxt": "^2.9.2",
     "sedona-components": "^4.9.8"
   }
