@@ -24,14 +24,14 @@
     "@nuxtjs/eslint-config": "^1.1.2",
     "babel-eslint": "^10.0.3",
     "eslint": "^5.16.0",
-    "eslint-plugin-jsdoc": "^15.9.10",
+    "eslint-plugin-jsdoc": "^15.12.2",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-unicorn": "^8.0.2",
     "eslint-plugin-vue": "^5.2.3",
-    "nuxt": "^2.10.0"
+    "nuxt": "^2.10.2"
   },
   "peerDependencies": {
     "sedona-components": "^4.9.8",
-    "@getsedona/vue-components": "0.0.2"
+    "@getsedona/vue-components": "^0.0.3"
   }
 }
