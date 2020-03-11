@@ -1,6 +1,9 @@
 {
-  "prettier.singleQuote": true,
-  "prettier.semi": false,
-  "prettier.trailingComma": "es5",
-  "eslint.validate": ["javascript", "javascriptreact", "vue"]
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.enable": true
 }
