@@ -15,23 +15,23 @@
   "license": "MIT",
   "dependencies": {
     "@nuxtjs/style-resources": "^1.0.0",
-    "consola": "^2.10.1",
-    "less": "^3.10.3",
+    "consola": "^2.11.3",
+    "less": "^3.11.1",
     "less-loader": "^5.0.0",
     "lodash": "^4.17.15"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^1.1.2",
-    "babel-eslint": "^10.0.3",
+    "babel-eslint": "^10.1.0",
     "eslint": "^5.16.0",
     "eslint-plugin-jsdoc": "^15.12.2",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-unicorn": "^8.0.2",
     "eslint-plugin-vue": "^5.2.3",
-    "nuxt": "^2.10.2"
+    "nuxt": "^2.11.0"
   },
   "peerDependencies": {
     "sedona-components": "^4.10.1",
-    "@getsedona/vue-components": "^0.1.0"
+    "@getsedona/vue-components": "^0.1.4"
   }
 }
