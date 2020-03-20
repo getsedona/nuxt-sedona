@@ -36,6 +36,6 @@
   },
   "optionalDependencies": {
     "@getsedona/vue-components": "^0.1.4",
-    "sedona-components": "^4.10.2"
+    "sedona-components": "^4.9.8 | ^4.10.2"
   }
 }
