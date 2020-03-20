@@ -3,7 +3,7 @@ export default {
 
   modules: [
     [
-      '../lib/index.js',
+      '../lib/module.js',
       {
         verbose: true,
         components: ['card', 'feature', 'grid'],
