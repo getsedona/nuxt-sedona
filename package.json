@@ -7,7 +7,7 @@
     "lib"
   ],
   "scripts": {
-    "dev": "nuxt example",
+    "dev": "nuxt --config-file example/nuxt.config.js",
     "lint": "eslint --ext .ts,.js,.vue ."
   },
   "keywords": [],
@@ -33,5 +33,9 @@
   "peerDependencies": {
     "sedona-components": "^4.10.1",
     "@getsedona/vue-components": "^0.1.4"
+  },
+  "optionalDependencies": {
+    "@getsedona/vue-components": "^0.1.4",
+    "sedona-components": "^4.10.2"
   }
 }

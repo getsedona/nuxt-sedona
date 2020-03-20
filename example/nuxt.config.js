@@ -1,7 +1,9 @@
 export default {
+  rootDir: 'example',
+
   modules: [
     [
-      '@getsedona/nuxt-sedona',
+      '../lib/index.js',
       {
         verbose: true,
         components: ['card', 'feature', 'grid'],
